@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+creds.json
+
 # next.js
 /.next/
 /out/

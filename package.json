@@ -7,9 +7,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@google-cloud/vision": "^2.3.5",
+    "formidable": "^1.2.2",
     "grommet": "^2.5.5",
     "next": "latest",
-    "node-tesseract-ocr": "^2.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "styled-components": "^5.3.0"
